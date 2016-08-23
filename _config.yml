@@ -1,4 +1,3 @@
-layout_spectrum: 0.6514794377144426
 typography_spectrum: 0.1254885345697403
 color:
   brandStrength: 0.732955081621185
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.6514794377144426
 name: The Super Resumé
+title: Pier-Luc Brousseau
