@@ -1,8 +1,19 @@
-typography_spectrum: 0.1254885345697403
+title: '...yad a ni dliubRome wasn''t '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.732955081621185
-  lightness: 0.9548677965067327
   saturation: 0.4086086789611727
+  brandStrength: 0.732955081621185
   rhythmicContrast: 0.3180605263914913
   brandColors:
     - '#F8F9FC'
@@ -10,7 +21,8 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-layout_spectrum: 0.6514794377144426
-name: Building the Empire
-title: '...yad a ni dliubRome wasn''t '
+  lightness: 0.9548677965067327
+typography_spectrum: 0.1254885345697403
 description: t...but we'll keep going at i
+layout_spectrum: 0.6087216
+name: Building the Empire
